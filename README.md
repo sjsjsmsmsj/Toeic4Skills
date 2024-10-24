@@ -5,7 +5,7 @@
 ## TRONG KHO BAO GỒM
 * VIDEO TRÊN YOUTUBE
 * TÀI LIỆU VÀ NHỮNG GHI CHÚ TỪ NHỮNG VIDEO ĐÓ
-* GIẢI THÍCH ĐỀ 
+* GIẢI THÍCH ĐỀ (Lưu ý Theo từng buổi trong list bài giảng bên dưới và mình sẽ cập nhật thêm nhiều cái để luyện thêm để tiến bộ hơn mỗi ngày)
 
 
 ### ĐANG CẬP NHẬT KHO 
