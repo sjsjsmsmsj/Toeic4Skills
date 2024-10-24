@@ -1,0 +1,175 @@
+Toeic Writing 
+
+Part 1:
+--- Cần đáp ứng các yêu cầu có đủ hai từ trong câu, đúng ngữ pháp, mạch lạc.
+1. Có thể viết một trong các cách: 
+--- Câu hỏi đưa hai từ gợi ý: Toy/ Shelf
+- There are many/ a lot of toys displayed on the shelves.
+- There are different kinds of toys displayed on the shelves.
+- A lot of toys are displayed on the shelves.
+2. Có thể viết một trong các cách: 
+------- Câu hỏi đưa hai từ gợi ý: carry/ box
+- The woman is carrying a big box.
+- The woman in a polka-dot shirt is carrying a box.
+3. Có thể viết một trong các cách: 
+------- Câu hỏi đưa hai từ gợi ý: woman / in
+- The woman is making a phone call in her car.
+---- To make a phone call = to call
+     To receive a phone call
+     To have a phone call
+4. Có thể viết một trong các cách: 
+--------Câu hỏi đưa hai từ gợi ý: check/ because
+------ S1 + V1 because S2 + V2
+- The man is checking a map because he is lost in the forest.
+- The man is checking a map because cannot find the way.
+5. Có thể viết một trong các cách:
+------- Câu hỏi đưa hai từ gợi ý: take / off
+- The airplane is about to take off.
+- The plane is on the runway ready to take off.
+- There is a plane on the runway(Which is) ready to take off.
+6. Email. Chúng ta có thể tham khảo các cách.
+- Đây là đề: 
+
+
+FROM: FiveStar Computer Customer Service
+TO: New Customer
+SUBJECT: Thank you for your purchase
+SENT: October 3, 11:20AM
+Dear Customer,
+
+We would like to thank you for purchasing our computer. We hope that you are satisfied with
+our product. If you have experienced any problems so far, please contact us via email at 5starsupport@fivestar.com.
+Thank you!
+
+
+Directions: Respond to the email as if you are a new customer of FiveStar Computer Company.
+In your email, describe TWO problems that you have had with the computer and make ONE request for 
+information.
+
+
+- Câu trả lời của mình: 
+- Xác định những target trước khi làm: 
+---- Mình cần xác định văn phong của mình là gì? 
+ Ví dụ:
++  Các bạn viết email cho một người bạn thì không trang trọng bằng những người 
+			khác bởi vì quen nhau quá rồi nên nói bình thường được.
+
++ Các bạn viết email cho một người khách hàng, sếp của mình thì văn phong cần lịch sự
+		trang trọng vì đáp ứng nhu cầu của họ. ( Dễ nghe mới có lương kkk)
+
+---- Xem thử có những nhiệm vụ gì? 
+------ Trong bài này thì có 3 nhiệm vụ(task) để mình giải quyết 
+--------- nhiệm vụ (1, 2): thì là hai vấn đề mà mình gặp phải?
+--------- nhiệm vụ (3)   : thì đưa ra một yêu cầu về thông tin? 
+
+Answer: 
+(Phần chào) 
+Dear FiveStar Computer Company/ Dear Sir or Madam, 
+(Giới thiệu tên mình: ví dụ tên tui là Lâm Gia Thịnh thì tui viết Thinh Lam,
+ Giới thiệu về lý do.)
+My name is Thinh Lam and I am writing in response to your email dated October 3 regarding my 
+recent purchase.
+
+I (bought) purchased a new computer from your company 2 weeks ago. (Khởi đầu của bug: Lúc đầu nó chạy ngon
+nhưng bây giờ mới gặp lỗi :))) fixx đi ông ơi kkk) At first, it worked fine but i have some 
+issues with it now. (Vấn đề đầu tiên tôi khởi động nó quá lâu) First, it takes a long time
+for the computer to start up.( Cấu trúc cần học: It takes me 15 minutes to go to school. (Mất bao
+lâu để làm gì.) ) . (Vần đề thứ hai: không tải được chương trình) Second, I can't install
+some programs. (Đưa ra yêu cầu thêm thông tin để fixx bugs.) Would it be possible for 
+you to send me instructions on how to install these programs?
+(Xong nội dung, giờ thì  hối họ làm nhanh lên mà phải lịch sự ý.)
+I really need these programs for my work so I would appreciate a prompt reply/ look forward to hearing from you soon.
+(prompt reply:  phản hồi nhanh chóng. ) 
+
+(Kết: và ký tên)
+Best regards,
+Thinh Lam 
+
+
+7. Email
+Đề: 
+FROM: Peter Parker, Personnel Director, Fitme.com
+TO: New Employees
+SUBJECT: Your first day
+SENT: May 29, 2:00 am
+
+Dear New Employees,
+
+Welcome! We're thrilled(hồi hộp) to have you with us. We'd like to inform that new employees
+will start work next Monday. Employees are expected to arrive at work no later than 9:00 
+AM. There will be a detailed orientation(buổi định hướng) with your respective(tương ứng) departments at 10:00 AM.
+If you have any questions, please fell free to contact us. 
+We look forward to seeing you next Monday.
+Best regards,
+Peter Parker
+
+Directions: Respond to the email as if you are a new employee at Firme.com. In your email ask TWO questions and give 
+ONE suggestion.
+
+Trả lời: 
+---- Tư duy đầu thì văn phong này? 
+------ Trang trọng hay không?
+------ Trang trọng nhé vì ông đó làm lâu năm
+
+---- Tư duy hai phải nghĩ ra 2 câu hỏi và 1 gợi ý.
+-------- Câu hỏi thứ nhất? - quy tắc về trang phục? What dress code is?
+			   - chỗ đỗ xe đạp cho nhân viên ở đâu?   Where employees can park their bikes?
+-------- Câu hỏi thứ hai? Cần đưa ra gợi ý:
+			   - đưa ra bữa trưa? welcome lunch. 
+
+Dear Mr.Parker, 
+
+My name is Thinh Lam and I work in the Sales Department. Thank you for your email
+regarding my first day. 
+(Đáng lẽ thì what dress code is là đủ nhưng đây là văn phong trang trọng)
+First, I would like to know what dress code(quy tắc về trang phục) is. 
+This is because I saw some employees wearing casual clothes. 
+Second, I plan to ride my bike to work next Monday, so could you please let me know
+where employees can park their bikes?
+Last, it would be a good idea to meet other new employees, so I suggest a welcome lunch
+for all new hires. 
+
+Thank you.
+Best regards,
+Thinh Lam
+
+
+
+8. 
+--- Ý tưởng: 
+
+
+Đề: Which do you prefer: e-books or books?
+Give reasons or examples to support your opinion.
+
+Giải: 
+
+
+Mở bài: (Phải dẫn dắt phải lôi kéo người đọc, rồi mình mới nói thẳng để bài nó dài kkk)
+In our technological era/ modern society, ebook have become more and more popular, especially among
+young people. ( Mở bài chung các bài kkk) However, There are still many people who favor(prefer) 
+traditional books. (Tới ý kiến của mình) Personally, I prefer using e-books and there
+are many reason to support my opinion. 
+
+Thân bài: (Đưa ra ví dụ, lý do để hỗ trợ cái ý kiến của mình) 
+(lý do 1) 
+First, it's more convenient. I don't have to go to the library or bookstore to buy e-books. 
+They are available to download 24 hours of the day, any day of the year, from the comfort
+of my home. (Lấy ví dụ) I live in an area where there are not many libraries and bookstores.
+In the past, it usually took me 2 hours to go buy or borrow books. Since I switched to 
+e-books, i have been able to spend those 2 hours on many other important things. 
+
+Second, e-books are usually cheaper than paper books. This is because there are no costs
+related to shipping and packaging. In fact/ As a matter of fact, e-books are often 30-50%
+cheaper than their physical counterparts( những vật giá tương tự). For people who live on 
+a tight budget, this is a huge benefit. 
+
+Last but not least, the experience of using e-books are more pleasurable(=enjoyable). 
+When I read e-books, I can adjust the text size, color or font style as I like. However,
+I can't do those things with tradition books.(Ví dụ) I feel like my eyes have become less
+tired after using e-books. Moreover, e-books can contain multimedia (đa phương tiện)
+elements which are not available with paper books. These elements, such as audio or video, 
+can make reading a fun and engaging experience(trải nghiệm hấp dẫn và vui). 
+
+To sum up, I prefer e-books to paper books. ( Đủ nếu cần cao thì vẽ thêm kkk) 
+I think people should choose the book format which suits their needs and preference. 
